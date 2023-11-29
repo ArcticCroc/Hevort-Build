@@ -18,8 +18,9 @@ ZR V2.6 (WobbleX)
 <br />
 **Print Head**
 <br />
+Phaetus Rapido Hotend HF
 <br />
 Vez Metal Print Head 
 <br />
-Vz-Printhead
+
 
