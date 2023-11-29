@@ -8,11 +8,12 @@ All the details of my Hevort build
 <br />
 **XY Gantry**
 <br />
+(SPAWD HD12) Short Path All Wheel Drive HD12
+<br />
 <br />
 **Z axis & Build Plate**
 <br />
 <br />
-(SPAWD HD12) Short Path All Wheel Drive HD12
 <br />
 <br />
 **Print Head**
