@@ -9,7 +9,8 @@ All the details of my Hevort build
 <br />
 **Z axis & Build Plate**
 <br />
+(SPAWD HD12) Short Path All Wheel Drive HD12
 **Print Head**
 <br />
-
+Vez Metal Print Head 
 
