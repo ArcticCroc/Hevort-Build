@@ -13,7 +13,7 @@ All the details of my Hevort build
 <br />
 **Z axis & Build Plate**
 <br />
-<br />
+ZR V2.6 (WobbleX)
 <br />
 <br />
 **Print Head**
