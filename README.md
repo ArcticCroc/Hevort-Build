@@ -9,6 +9,7 @@ All the details of my Hevort build
 **XY Gantry**
 <br />
 (SPAWD HD12) Short Path All Wheel Drive HD12
+<br />
 (HD12) MGN9 Top Rail Carbon Fiber X-Axis
 <br />
 <br />
