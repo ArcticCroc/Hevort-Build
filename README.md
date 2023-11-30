@@ -22,5 +22,6 @@ Phaetus Rapido Hotend HF
 <br />
 Vez Metal Print Head 
 <br />
+Biqu Micro Probe
 
 
