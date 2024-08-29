@@ -25,8 +25,9 @@ Phaetus Rapido Hotend HF
 Vez Metal Print Head 
 <br />
 Biqu Micro Probe
-<br />
+<br /><br />
 Useful links
 <br />
 https://github.com/dw-0/kiauh
-
+<br />
+https://github.com/Frix-x/klippain-shaketune/tree/main
