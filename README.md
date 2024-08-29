@@ -31,3 +31,7 @@ Useful links
 https://github.com/dw-0/kiauh
 <br />
 https://github.com/Frix-x/klippain-shaketune/tree/main
+<br />
+For Update of Mellow Fly ADXL345 usb
+<br />
+https://mellow-3d.github.io/fly_adxl345_usb_klipper_usb.html
